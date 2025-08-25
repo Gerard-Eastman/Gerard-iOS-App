@@ -10,9 +10,9 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
- 
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
 ## Video Walkthrough
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
@@ -23,18 +23,18 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Biggest challenge was debugging in xCode
+Biggest challenge were the instructions didn't line up with my current version. There was no "attributes selector" with three horizontal lines. I got lost, and would love to finish this!
 
 ## License
 
     Copyright [2025] [Gerard Eastman]
-
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
         http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
