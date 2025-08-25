@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Biggest challenge were the instructions didn't line up with my current version. There was no "attributes selector" with three horizontal lines. I got lost, and would love to finish this!
+Biggest challenge were the instructions didn't line up with my current version. There was no "attributes selector" with three horizontal lines. I got lost, and would love to finish this! I also don't know how to make a gif in time to submit this! :(
 
 ## License
 
@@ -40,3 +40,11 @@ Biggest challenge were the instructions didn't line up with my current version. 
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## App Brainstorming
+
+Cheese rating app. I can organize the cheeses I have tried, give them ratings, the date tasted, and pictures.
+
+Polytopia companion: Includes a damage calculator for polytopia, and helps keep track of troops. Can calculate damage as well as which troop can damage which troops.
+
+Risk Domination Calculaor: Calculates the odds of winning risk battles, add variations for blitz vs true random and number of dice as well as caps. Also keep track of board state for fog of war, and how many troops peopl will get per turn.
